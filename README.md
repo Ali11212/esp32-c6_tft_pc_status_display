@@ -46,7 +46,7 @@ A real-time PC status monitoring system using an **ESP32-C6 Super Mini** and an 
 | **GPIO 8** | `BLK` / `LED` | Backlight Control | 
 | **GPIO 20** | `SDA` / `MOSI` | SPI Data | 
 | **GPIO 19** | `SCL` / `SCK` | SPI Clock | 
-| **3.3V / 5V** | `VCC` | Power Supply | 
+| **3.3V** | `VCC` | Power Supply | 
 | **GND** | `GND` | Ground | 
 
 ## 💻 Software Prerequisites
